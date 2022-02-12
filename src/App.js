@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Wrapper } from "./App.styled";
-import  Section  from "./components/Section/Section";
-import FeedbackOptions from "./components/FeedbackOptions/FeedbackOptions";
-import Statistics from "./components/Statistics/Statictics";
-import Notification from "./components/Notification/Notification";
+import  Section  from "./components/Section";
+import FeedbackOptions from "./components/FeedbackOptions";
+import Statistics from "./components/Statistics";
+import Notification from "./components/Notification";
 
 
 
